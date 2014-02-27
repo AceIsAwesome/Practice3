@@ -13,13 +13,22 @@
 		874A25B318BFD7CB001AAFA6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 874A25B118BFD7CB001AAFA6 /* InfoPlist.strings */; };
 		874A25B518BFD7CB001AAFA6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 874A25B418BFD7CB001AAFA6 /* main.m */; };
 		874A25B918BFD7CB001AAFA6 /* SpirographAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 874A25B818BFD7CB001AAFA6 /* SpirographAppDelegate.m */; };
-		874A25BC18BFD7CB001AAFA6 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 874A25BA18BFD7CB001AAFA6 /* MainStoryboard.storyboard */; };
 		874A25BF18BFD7CB001AAFA6 /* SpirographViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 874A25BE18BFD7CB001AAFA6 /* SpirographViewController.m */; };
 		874A25C718BFD7CB001AAFA6 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 874A25C618BFD7CB001AAFA6 /* SenTestingKit.framework */; };
 		874A25C818BFD7CB001AAFA6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 874A25A818BFD7CB001AAFA6 /* UIKit.framework */; };
 		874A25C918BFD7CB001AAFA6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 874A25AA18BFD7CB001AAFA6 /* Foundation.framework */; };
 		874A25D118BFD7CC001AAFA6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 874A25CF18BFD7CC001AAFA6 /* InfoPlist.strings */; };
 		874A25D418BFD7CC001AAFA6 /* Practice3Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 874A25D318BFD7CC001AAFA6 /* Practice3Tests.m */; };
+		874A25DF18BFD861001AAFA6 /* SpirographView.m in Sources */ = {isa = PBXBuildFile; fileRef = 874A25DE18BFD861001AAFA6 /* SpirographView.m */; };
+		874A25E018BFD861001AAFA6 /* SpirographView.m in Sources */ = {isa = PBXBuildFile; fileRef = 874A25DE18BFD861001AAFA6 /* SpirographView.m */; };
+		874A25E318BFD87A001AAFA6 /* HarmonigraphView.m in Sources */ = {isa = PBXBuildFile; fileRef = 874A25E218BFD87A001AAFA6 /* HarmonigraphView.m */; };
+		874A25E418BFD87A001AAFA6 /* HarmonigraphView.m in Sources */ = {isa = PBXBuildFile; fileRef = 874A25E218BFD87A001AAFA6 /* HarmonigraphView.m */; };
+		874A25E618BFD87F001AAFA6 /* kimage.png in Resources */ = {isa = PBXBuildFile; fileRef = 874A25E518BFD87F001AAFA6 /* kimage.png */; };
+		874A25E718BFD87F001AAFA6 /* kimage.png in Resources */ = {isa = PBXBuildFile; fileRef = 874A25E518BFD87F001AAFA6 /* kimage.png */; };
+		874A25E918BFD887001AAFA6 /* limage.png in Resources */ = {isa = PBXBuildFile; fileRef = 874A25E818BFD887001AAFA6 /* limage.png */; };
+		874A25EA18BFD887001AAFA6 /* limage.png in Resources */ = {isa = PBXBuildFile; fileRef = 874A25E818BFD887001AAFA6 /* limage.png */; };
+		874A25F218BFDC11001AAFA6 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 874A25F018BFDC11001AAFA6 /* MainStoryboard.storyboard */; };
+		874A25F318BFDC11001AAFA6 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 874A25F018BFDC11001AAFA6 /* MainStoryboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,7 +52,6 @@
 		874A25B618BFD7CB001AAFA6 /* Practice3-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Practice3-Prefix.pch"; sourceTree = "<group>"; };
 		874A25B718BFD7CB001AAFA6 /* SpirographAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SpirographAppDelegate.h; sourceTree = "<group>"; };
 		874A25B818BFD7CB001AAFA6 /* SpirographAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SpirographAppDelegate.m; sourceTree = "<group>"; };
-		874A25BB18BFD7CB001AAFA6 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		874A25BD18BFD7CB001AAFA6 /* SpirographViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SpirographViewController.h; sourceTree = "<group>"; };
 		874A25BE18BFD7CB001AAFA6 /* SpirographViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SpirographViewController.m; sourceTree = "<group>"; };
 		874A25C518BFD7CB001AAFA6 /* Practice3Tests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Practice3Tests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -52,6 +60,13 @@
 		874A25D018BFD7CC001AAFA6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		874A25D218BFD7CC001AAFA6 /* Practice3Tests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Practice3Tests.h; sourceTree = "<group>"; };
 		874A25D318BFD7CC001AAFA6 /* Practice3Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Practice3Tests.m; sourceTree = "<group>"; };
+		874A25DD18BFD854001AAFA6 /* SpirographView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SpirographView.h; path = "../../../Downloads/Spirograph-master/Spirograph/SpirographView.h"; sourceTree = "<group>"; };
+		874A25DE18BFD861001AAFA6 /* SpirographView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SpirographView.m; path = "../../../Downloads/Spirograph-master/Spirograph/SpirographView.m"; sourceTree = "<group>"; };
+		874A25E118BFD871001AAFA6 /* HarmonigraphView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HarmonigraphView.h; path = "../../../Downloads/Spirograph-master/Spirograph/HarmonigraphView.h"; sourceTree = "<group>"; };
+		874A25E218BFD87A001AAFA6 /* HarmonigraphView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HarmonigraphView.m; path = "../../../Downloads/Spirograph-master/Spirograph/HarmonigraphView.m"; sourceTree = "<group>"; };
+		874A25E518BFD87F001AAFA6 /* kimage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = kimage.png; path = "../../../Downloads/Spirograph-master/Spirograph/kimage.png"; sourceTree = "<group>"; };
+		874A25E818BFD887001AAFA6 /* limage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = limage.png; path = "../../../Downloads/Spirograph-master/Spirograph/limage.png"; sourceTree = "<group>"; };
+		874A25F118BFDC11001AAFA6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "../../../Downloads/Spirograph-master 2/Spirograph/Base.lproj/MainStoryboard.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,9 +128,15 @@
 			children = (
 				874A25B718BFD7CB001AAFA6 /* SpirographAppDelegate.h */,
 				874A25B818BFD7CB001AAFA6 /* SpirographAppDelegate.m */,
-				874A25BA18BFD7CB001AAFA6 /* MainStoryboard.storyboard */,
+				874A25F018BFDC11001AAFA6 /* MainStoryboard.storyboard */,
+				874A25DD18BFD854001AAFA6 /* SpirographView.h */,
+				874A25DE18BFD861001AAFA6 /* SpirographView.m */,
 				874A25BD18BFD7CB001AAFA6 /* SpirographViewController.h */,
 				874A25BE18BFD7CB001AAFA6 /* SpirographViewController.m */,
+				874A25E118BFD871001AAFA6 /* HarmonigraphView.h */,
+				874A25E218BFD87A001AAFA6 /* HarmonigraphView.m */,
+				874A25E518BFD87F001AAFA6 /* kimage.png */,
+				874A25E818BFD887001AAFA6 /* limage.png */,
 				874A25AF18BFD7CB001AAFA6 /* Supporting Files */,
 			);
 			path = Practice3;
@@ -206,6 +227,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 874A259918BFD7CB001AAFA6;
 			productRefGroup = 874A25A518BFD7CB001AAFA6 /* Products */;
@@ -224,7 +246,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				874A25B318BFD7CB001AAFA6 /* InfoPlist.strings in Resources */,
-				874A25BC18BFD7CB001AAFA6 /* MainStoryboard.storyboard in Resources */,
+				874A25E618BFD87F001AAFA6 /* kimage.png in Resources */,
+				874A25E918BFD887001AAFA6 /* limage.png in Resources */,
+				874A25F218BFDC11001AAFA6 /* MainStoryboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -233,6 +257,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				874A25D118BFD7CC001AAFA6 /* InfoPlist.strings in Resources */,
+				874A25E718BFD87F001AAFA6 /* kimage.png in Resources */,
+				874A25EA18BFD887001AAFA6 /* limage.png in Resources */,
+				874A25F318BFDC11001AAFA6 /* MainStoryboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,6 +289,8 @@
 				874A25B518BFD7CB001AAFA6 /* main.m in Sources */,
 				874A25B918BFD7CB001AAFA6 /* SpirographAppDelegate.m in Sources */,
 				874A25BF18BFD7CB001AAFA6 /* SpirographViewController.m in Sources */,
+				874A25DF18BFD861001AAFA6 /* SpirographView.m in Sources */,
+				874A25E318BFD87A001AAFA6 /* HarmonigraphView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,6 +299,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				874A25D418BFD7CC001AAFA6 /* Practice3Tests.m in Sources */,
+				874A25E018BFD861001AAFA6 /* SpirographView.m in Sources */,
+				874A25E418BFD87A001AAFA6 /* HarmonigraphView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,20 +323,20 @@
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
-		874A25BA18BFD7CB001AAFA6 /* MainStoryboard.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				874A25BB18BFD7CB001AAFA6 /* en */,
-			);
-			name = MainStoryboard.storyboard;
-			sourceTree = "<group>";
-		};
 		874A25CF18BFD7CC001AAFA6 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
 				874A25D018BFD7CC001AAFA6 /* en */,
 			);
 			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		874A25F018BFDC11001AAFA6 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				874A25F118BFDC11001AAFA6 /* Base */,
+			);
+			name = MainStoryboard.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
